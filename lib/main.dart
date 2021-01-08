@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'package:giphy/ui/home_page.dart';
-
 
 
 void main(){
@@ -10,5 +8,7 @@ void main(){
       MaterialApp(
         debugShowCheckedModeBanner: false,
      home: HomePage(),
+        theme: ThemeData(hintColor:Colors.white),
   ));
+  
 }
