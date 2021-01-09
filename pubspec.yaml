@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   http: ^0.12.2
   share: ^0.5.2
+  transparent_image: "^0.1.0"
 
 dev_dependencies:
   flutter_test:
